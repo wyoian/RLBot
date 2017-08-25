@@ -1,0 +1,2 @@
+c:\users\ian\documents\visual studio 2015\Projects\RocketLeagueBot\RocketLeagueBot\bin\Debug\RocketLeagueBot.exe.config
+C:\Users\Ian\Documents\Work\OtherRepos\RocketLeagueBot\RocketLeagueBot\bin\Debug\RocketLeagueBot.exe.config
